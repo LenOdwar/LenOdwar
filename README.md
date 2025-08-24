@@ -14,8 +14,8 @@
 - 📫 How to reach me **lennodwar@gmail.com**
 
 ### Blogs posts
-<https://medium.com/@lennodwar/securitization-of-the-fuel-levy-a-short-term-fix-with-long-term-risks-111b54593446!-- BLOG-POST-LIST:START -->
-<https://medium.com/@lennodwar/the-kenyan-credit-scoring-model-is-flawed-602431a1078f!-- BLOG-POST-LIST:END -->
+<https://medium.com/@lennodwar/securitization-of-the-fuel-levy-a-short-term-fix-with-long-term-risks-111b54593446!-- 
+<https://medium.com/@lennodwar/the-kenyan-credit-scoring-model-is-flawed-602431a1078f!-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
