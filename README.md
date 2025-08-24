@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenodwar" alt="lenodwar" /></a> </p>
 
-- 🔭 I’m currently working on **financial modelling**
+- 🔭 I’m currently working on **financial modelling in Excel and Python**
 
 - 🌱 I’m currently learning **credit risk modelling in python**
 
@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <https://medium.com/@lennodwar/securitization-of-the-fuel-levy-a-short-term-fix-with-long-term-risks-111b54593446!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<https://medium.com/@lennodwar/the-kenyan-credit-scoring-model-is-flawed-602431a1078f!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
